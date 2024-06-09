@@ -10,3 +10,4 @@ inference/
 *.pt
 *.tar
 *.tar.gz
+input/
